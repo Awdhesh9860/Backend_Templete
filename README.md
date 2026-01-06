@@ -79,9 +79,7 @@ This template can be used for:
 
 🔹 Production-ready enterprise applications
 
-🔍 SEO Keywords
 
-(Helps increase GitHub search visibility)
 
 Node.js backend template
 
